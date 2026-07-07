@@ -1,0 +1,5 @@
+chat_history/
+chroma_db/
+uploaded_files/
+__pycache__/
+*.pyc
